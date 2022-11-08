@@ -10,7 +10,7 @@ import './App.css';
 
 function App() {
   const [pages] = useState(
-    ["About","Portfolio", "Contact", "Resume"])
+    ["About", "Portfolio", "Contact", "Resume"])
   const [currentPage, setCurrentPage] = useState(pages[0]);
 
   function renderSwitch(page) {

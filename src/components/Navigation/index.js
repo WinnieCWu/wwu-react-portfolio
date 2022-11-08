@@ -11,6 +11,7 @@ function Li (props){
   )
 }
 
+
 function Nav(props) {
   const {pages = [], currentPage, setCurrentPage } = props;
 

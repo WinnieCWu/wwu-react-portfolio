@@ -8,20 +8,20 @@ import stackOverflowIcon from '../../assets/stackoverflow_icon.jpg';
 
 function Footer() {
     return (
-        <section id="footer">
-        
+        <section id="footer" className="d-flex justify-content-center">
+            <div id="icons" className="text-center">
                 <a href="https://github.com/WinnieCWu">
                     <img src={githubIcon} alt="github icon"/>
                 </a>
         
-                <a href="www.linkedin.com/in/winnie-wu-mph">
+                <a href="https://www.linkedin.com/in/winniecwu7">
                     <img src={linkedInIcon} alt="linkedIn icon"/>
                 </a>
             
                 <a href="https://stackoverflow.com/users/19118237/winniecw">
                     <img src={stackOverflowIcon} alt="stack overflow icon"/>
                 </a>
-            
+            </div>
         </section>
     );
 };

@@ -4,16 +4,18 @@ import developerPhoto from '../../assets/developer-photo_10.jpg';
 
 function About() {
   return (
-    <section className="my-5" id="about">
+    <section className="d-flex justify-content-center" id="about">
       {/* <img src={coverImage} className="my-2" style={{ width: "100%" }} alt="cover" /> */}
-      <h1>Who am I?</h1>
+      <h1>Hello, I am Winnie Wu.</h1>
       <div className="my-2">
-        <img src ={developerPhoto} alt="developer photo"/>
-        <h3>
-        Hi everyone! My name is Winnie Wu, and I am a full stack developer with 10+ years experience as a health benefit specialist and a master's degree in Public Health. Additionally, I possess strong leadership acumen with proven skills in cross-functional collaboration and problem-solving to achieve goals in local government and non-profit environments. I am also passionate in improving access to quality services, being a life-long learner, and supporting my community.
-Earned a Certificate in Full Stack Web Development from UC Berkeley Extension where I developed expertise in full stack web development, database management, and design architecture. Strengths include using technical skills, such as Node.js, React, and JavaScript, to make positive impacts.
-{/* include icons of each language: Node.js, React, and Javascript. */}
-Excited to combine technical training and coordination experience to continue leading teams to success and in providing top-quality services to clients! Looking forward to connecting!
+        <img src ={developerPhoto} alt="developer"/>
+        <h3 className="container">
+<br></br>
+          I am a full stack web developer seeking further opportunity to provide top-quality services to clients and to be a valuable team-player. <br></br>
+          Currently a Government Benefit Specialist and Program Coordinator for San Mateo County Health, with 10+ years’ experience in a healthcare setting, a master's degree in Public Health from University of San Francisco, and a Full-Stack Coding Certification from UC Berkeley Coding Bootcamp where I developed expertise in front- and back-end web development, database management, and design architecture, such as:<br></br> <br></br>
+<li> <i> Front-End</i>: HTML5, CSS, JavaScript (JSON), jQuery, Bootstrap, AJAX, React (Hooks), Progressive Web Applications (PWA), Responsive Design, RESTful APIs, Webpack</li>
+<li> <i>Back-End</i>: MERN Stack (MongoDB/Mongoose ODM, Express, ReactJS, Node.js), SQL/Sequelize ORM, GraphQL, User Authentication, Handlebars, Model-View-Controller (MVC), Test-Development Driven (TDD), Version Control (Git)</li> <br></br>
+My diverse background in local government and non-profits help me to leverage a range of experiences: being a government benefit specialist and program coordinator enhanced my ability to adapt and problem-solve, my role as a social work assistant and intake coordinator honed my excellent organization and cross-functional collaboration skills, and my educator experience developed my ability to educate others in step-by-step processes. These, in addition to my reliable work ethic, drive for excellence, and passion for unlimited growth, are assets I am excited to bring into my career in web development.
 
         </h3>
       </div>
