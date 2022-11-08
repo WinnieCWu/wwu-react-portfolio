@@ -7,7 +7,7 @@ This portfolio showcases my various projects and skill sets created and develope
 This portfolio is a single-page application built through Create-React-App, which one of the latest technologies.
 
 ## What it looks like
-Link to deployed page: https://winniecwu.github.io/WinnieCW-portfolio-via-react/
+Link to deployed page: https://winniecwu.github.io/wwu-react-portfolio/.
 Screenshot of deployed app:
 ![Screenshot](https://user-images.githubusercontent.com/95206117/171296387-bb9d5364-07a6-43b4-8111-a937a33a9441.JPG)
 
