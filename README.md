@@ -9,7 +9,8 @@ This portfolio is a single-page application built through Create-React-App, whic
 ## What it looks like
 Link to deployed page: https://winniecwu.github.io/wwu-react-portfolio/.
 Screenshot of deployed app:
-![Screenshot](https://user-images.githubusercontent.com/95206117/171296387-bb9d5364-07a6-43b4-8111-a937a33a9441.JPG)
+![sitescreenshot](https://user-images.githubusercontent.com/95206117/200487792-df2a3f12-4975-4e4b-b21a-eb5f6726af01.jpg)
+![sitescreenshot2](https://user-images.githubusercontent.com/95206117/200487810-874a19c7-d413-4cb7-8349-3009a5e27e6c.jpg)
 
 
 ## Contributors
