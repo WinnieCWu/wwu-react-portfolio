@@ -4,7 +4,7 @@ import React from 'react';
 function Header() {
     return (
         <h2 id="header">
-            <a data-testid="link" href="https://winniecwu.github.io/wwu-react-portfolio/">
+            <a data-testid="link" href="/">
             <h1>Welcome to Winnie Wu's Portfolio!</h1> 
             </a>
         </h2>
