@@ -16,7 +16,7 @@ function Nav(props) {
   const {pages = [], currentPage, setCurrentPage } = props;
 
   return (
-    <header className="flex-row px-1" id="nav" className="text-center">
+    <header className="flex-row px-1" id="nav">
       <nav>
         <div className="navbar">
         <div className="navbar-header col-lg-12 justify-flex-start">
