@@ -7,6 +7,7 @@ function Resume() {
             <h1>
                 <a href={resume} alt="downloadable resume">Resume</a>
             </h1>
+            <br></br>
             <h2> Front-End Proficiencies </h2>
             <ul>
                 <li>HTML5</li>
