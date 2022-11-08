@@ -15,6 +15,8 @@ function App() {
 
   function renderSwitch(page) {
     switch (page) {
+      case "About":
+        return <About />
       case "Portfolio":
         return <Portfolio />
       case "Contact":

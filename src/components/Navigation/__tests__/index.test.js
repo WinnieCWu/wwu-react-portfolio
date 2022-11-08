@@ -5,7 +5,7 @@ import '@testing-library/jest-dom/extend-expect';
 import Nav from '..';
 
 const projects = [
-  { name: 'photography porfolio', description: 'Portraits of beautiful landscapes and living beings' }
+  { name: 'my porfolio', description: 'List of my portfolio porjects' }
 ]
 const mockCurrentProject = jest.fn();
 const mockSetCurrentProject= jest.fn();
@@ -49,7 +49,7 @@ describe('links are visible', () => {
       setContactSelected={mockSetContactSelected}
     />);
 
-    expect(getByTestId('link')).toHaveTextContent('Oh Snap!');
+    expect(getByTestId('link')).toHaveTextContent('Welcome!');
     expect(getByTestId('about')).toHaveTextContent('About me');
   });
 })

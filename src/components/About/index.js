@@ -1,5 +1,4 @@
 import React from 'react';
-import coverImage from '../../assets/cover-image.jpg';
 import developerPhoto from '../../assets/developer-photo_10.jpg';
 
 function About() {
