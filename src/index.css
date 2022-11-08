@@ -72,9 +72,10 @@ nav {
   background-color: black;
   width: 100%;
   float: none;
-  position: sticky;
   padding: 25px 16px;
   text-decoration: none;
+  text-align: center;
+  margin: 0 auto;
   font-size: 20px;
   display:inline-block;
 }
@@ -85,8 +86,6 @@ nav  li {
 }
 
 #header {
-  /* background-color: #0388fc; */
-  /* background-color: #A8D8EA; */
   background-image: linear-gradient(to right, blue, purple);
   width: 100%;
   top: 0;
@@ -96,9 +95,6 @@ nav  li {
  #footer { 
     text-align: center; 
     margin: 0 auto;
-    /* background-color: #FFFFD2; */
-    /* background-color: #0388fc; */
-    /* position:absolute; */
     background-image: linear-gradient(to right, blue, purple);
     left: 0;
     bottom:0;
