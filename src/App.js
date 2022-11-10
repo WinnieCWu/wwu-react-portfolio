@@ -4,13 +4,13 @@ import Header from './components/Header';
 import Nav from './components/Navigation';
 import About from './components/About';
 import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
+// import Contact from './components/Contact';
 import Resume from './components/Resume';
 import './App.css';
 
 function App() {
   const [pages] = useState(
-    ["About", "Portfolio", "Contact", "Resume"])
+    ["About", "Portfolio", "Resume"])
   const [currentPage, setCurrentPage] = useState(pages[0]);
 
   function renderSwitch(page) {
@@ -19,8 +19,8 @@ function App() {
         return <About />
       case "Portfolio":
         return <Portfolio />
-      case "Contact":
-        return <Contact />
+      // case "Contact":
+      //   return <Contact />
       case "Resume":
         return <Resume />
       default:

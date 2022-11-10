@@ -1,3 +1,23 @@
+
+main {
+	margin: 0 auto;
+	max-width: 100%;
+  padding: 10px 10px;
+}
+
+:root {
+  --primary: #8c54ff;
+  --secondary: #F3A847;
+  --tertiary: #B12704;
+  --light: #fafafa;
+  --dark: #000000;
+  --darker: #111111;
+  --error: rgb(228, 46, 1);
+  --spacing-one: calc(1rem * 0.5);
+  --spacing-two: calc(1rem);
+  --spacing-five: calc(2.5rem);
+}
+
 html,
 body {
   min-height: 100%;
@@ -20,32 +40,6 @@ body {
   font-weight: bold;
   
 }
-
-
-main {
-	margin: 0 auto;
-	max-width: 100%;
-  padding: 10px 10px;
-}
-
-:root {
-  --primary: #8c54ff;
-  --secondary: #F3A847;
-  --tertiary: #B12704;
-  --light: #fafafa;
-  --dark: #000000;
-  --darker: #111111;
-  --error: rgb(228, 46, 1);
-  --spacing-one: calc(1rem * 0.5);
-  --spacing-two: calc(1rem);
-  --spacing-five: calc(2.5rem);
-
-}
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
-
 
 h1,
 h2,
