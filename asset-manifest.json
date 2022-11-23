@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wwu-react-portfolio/static/css/main.30208c72.css",
+    "main.css": "/wwu-react-portfolio/static/css/main.155254a8.css",
     "main.js": "/wwu-react-portfolio/static/js/main.ead3b9dd.js",
     "static/js/787.3bc07b21.chunk.js": "/wwu-react-portfolio/static/js/787.3bc07b21.chunk.js",
     "static/media/0.JPG": "/wwu-react-portfolio/static/media/0.d10891ae91d29ba7a64d.JPG",
@@ -11,12 +11,12 @@
     "static/media/2.JPG": "/wwu-react-portfolio/static/media/2.a130e3953e858000e793.JPG",
     "static/media/4.JPG": "/wwu-react-portfolio/static/media/4.8a878ddbfeb0df4043b1.JPG",
     "index.html": "/wwu-react-portfolio/index.html",
-    "main.30208c72.css.map": "/wwu-react-portfolio/static/css/main.30208c72.css.map",
+    "main.155254a8.css.map": "/wwu-react-portfolio/static/css/main.155254a8.css.map",
     "main.ead3b9dd.js.map": "/wwu-react-portfolio/static/js/main.ead3b9dd.js.map",
     "787.3bc07b21.chunk.js.map": "/wwu-react-portfolio/static/js/787.3bc07b21.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.30208c72.css",
+    "static/css/main.155254a8.css",
     "static/js/main.ead3b9dd.js"
   ]
 }
